@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="ru">
+	<head>
+		<meta charset="UTF-8">
+		<link href="vertstyle.css" rel="stylesheet">
+	</head>
+	<body>
+		<ul id="menu">
+			<li><a href="#"><span>Главная</span></a></li>
+			<li><a href="#"><span>Контакты</span></a></li>
+			<li><a href="#"><span>О сайте</span></a></li>
+			<li><a href="#"><span>Карта сайта</span></a></li>
+			<li><a href="#"><span>Ссылки</span></a></li>
+		</ul>		
+	</body>
+</html>
