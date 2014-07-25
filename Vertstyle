@@ -1,0 +1,28 @@
+ul#menu {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+
+}
+
+ul#menu li a {
+	color: white;
+	background: url(vert_css_menu_0.png) no-repeat 0 0;
+	text-decoration: none;
+	width: 200px;
+	height: 43px;
+	border: none;
+	display: block;
+}
+
+ul#menu li a:hover {
+	background: url(vert_css_menu_1.png) no-repeat 0 0;
+	width: 200px;
+	height: 43px;
+}
+
+ul#menu li a span {
+	font-size: 18;
+	padding: 10px 0 0 22px;
+	display: block;
+}
